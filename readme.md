@@ -9,6 +9,7 @@ If you're new to Grunt, you can copy and paste the following code into the Termi
 	npm install -g grunt
 	npm install grunt-contrib-sass
 	npm install grunt-contrib-coffee
+	npm install grunt-contrib-watch
 
 And you're ready to go!
 
